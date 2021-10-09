@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title=" VOD ",MOVIE 
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title=" VvOD ",MOVIE 
 https://snehstream.herokuapp.com/1265
 #EXTINF:-1 tvg-id="sneh" tvg-logo="https://i.ibb.co/LZwtM6N/IMG-20210925-232819-499.jpggroup-title=" SonyLiv",sneh
 https://github.com/techiesneh
