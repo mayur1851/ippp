@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title=" VOD ",MOVIE 
-https://streamta.pe/get_video?id=xe73ADdd3Zikbkz&expires=1633850188&ip=FRqsD0APKxSHDN&token=-edbXEVfYZ3t&stream=1
+https://snehstream.herokuapp.com/1265
 #EXTINF:-1 tvg-id="sneh" tvg-logo="https://i.ibb.co/LZwtM6N/IMG-20210925-232819-499.jpggroup-title=" SonyLiv",sneh
 https://github.com/techiesneh
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="sneh SONYLIV-LIVE",SONY HD
