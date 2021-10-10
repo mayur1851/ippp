@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="VODD",SAB HD
-https://voe.sx/e/ll0l2qw0gaen
+https://voe.sx/e/ll0l2qw0gae
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title=" VvOD ",MOVIE 
 https://voe.sx/e/ll0l2qw0gaen
 #EXTINF:-1 tvg-id="sneh" tvg-logo="https://i.ibb.co/LZwtM6N/IMG-20210925-232819-499.jpggroup-title=" SonyLiv",sneh
